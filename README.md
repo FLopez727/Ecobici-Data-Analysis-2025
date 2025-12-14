@@ -33,5 +33,11 @@ Flujo completo en Python: limpieza de datos, EDA, visualizaciones, pruebas de hi
 - Python ≥ 3.9
 - Libraries: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
 
+## 📂 Data Source / Fuente de datos
+The raw datasets are available from Ecobici's official open data portal:  
+Los datasets crudos están disponibles en el portal oficial de datos abiertos de Ecobici:  
+[https://www.ecobici.cdmx.gob.mx/datos-abiertos](https://www.ecobici.cdmx.gob.mx/datos-abiertos)
+
+
 ```bash
 pip install -r requirements.txt
